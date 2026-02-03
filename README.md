@@ -1,3 +1,5 @@
+[Screenshot_20260203-181130695](https://github.com/user-attachments/assets/23bc9359-4966-4a45-a12c-35906dbe42fd)
+
 # Addition to the original project
 Option to add gcode at the beginning and end of the file
 
@@ -33,7 +35,8 @@ Optionally removes ending commands (M9, G1 S0, M2)
 
 Optionally includes the original G-code line as a comment above the modified line
 
-✅ Customizable Pen Settings (GUI)
+✅ Customizable Pen Settings (GUI)!
+
 
 The GUI allows modifying:
 
