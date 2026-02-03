@@ -1,4 +1,4 @@
-[Screenshot_20260203-181130695](https://github.com/user-attachments/assets/23bc9359-4966-4a45-a12c-35906dbe42fd)
+![Screenshot_20260203-181130695](https://github.com/user-attachments/assets/23bc9359-4966-4a45-a12c-35906dbe42fd)
 
 # Addition to the original project
 Option to add gcode at the beginning and end of the file
