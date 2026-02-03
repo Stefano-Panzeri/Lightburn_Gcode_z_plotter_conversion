@@ -1,6 +1,8 @@
 # Addition to the original project
 Option to add gcode at the beginning and end of the file
+
 Setting are saved between sessions
+
 Added Italian and Spanish translations
 
 # Lightburn_Gcode_z_plotter_conversion
